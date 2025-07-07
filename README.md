@@ -40,6 +40,8 @@ Le restaurant propose une cuisine traditionnelle tchadienne et africaine, avec t
 3. **Transformation en MLD** en appliquant les règles de passage MCD → MLD
 4. **Génération du MPD** avec scripts SQL (tables, clés, contraintes)
 5. **Insertion de données de test**
+![Capture d’écran du 2025-07-07 14-42-27](https://github.com/user-attachments/assets/6ab9dd00-d740-45e5-bc2c-1028199e7607)
+
 
 ---
 
