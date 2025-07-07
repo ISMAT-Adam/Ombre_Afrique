@@ -12,8 +12,14 @@ Le restaurant propose une cuisine traditionnelle tchadienne et africaine, avec t
 
 - Identifier les entités principales du système
 - Créer un **Modèle Conceptuel de Données (MCD)**
+  ![Capture d’écran du 2025-07-07 14-21-37](https://github.com/user-attachments/assets/c991ed46-0007-4ed2-ac13-ebafb2a11891)
+
 - Générer un **Modèle Logique de Données (MLD)**
+![Capture d’écran du 2025-07-07 14-23-00](https://github.com/user-attachments/assets/03c83fab-64e5-447b-983c-0b366126e30a)
+
 - Dériver le **Modèle Physique de Données (MPD)** avec des scripts SQL
+![Capture d’écran du 2025-07-07 14-23-42](https://github.com/user-attachments/assets/0a136e8f-571f-469d-a40b-0f8495ec46d3)
+
 - Fournir un jeu de données de test pour valider la base
 
 ---
